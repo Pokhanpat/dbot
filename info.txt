@@ -1,0 +1,4 @@
+general message: <Message id=824332814283178074 channel=<TextChannel id=824067463264075809 name='general' position=0 nsfw=False news=False category_id=824067463264075807> type=<MessageType.default: 0> author=<Member id=498866368213680168 name='Pokhanpat' discriminator='4644' bot=False nick=None guild=<Guild id=824067463264075806 name='Bot testing grounds 2.0' shard_id=None chunked=True member_count=7>> flags=<MessageFlags value=0>>
+
+682277076790673409
+743958088968831117
